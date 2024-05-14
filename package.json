@@ -1,0 +1,10 @@
+{
+  "name": "hl7API",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dev": "node index.js",
+  "license": "MIT",
+  "dependencies": {
+    "simple-hl7": "^3.2.4"
+  }
+}
